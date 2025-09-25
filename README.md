@@ -1,13 +1,13 @@
 # CRM-and-Sales-Pipeline
 
 🌍About the dataset
-A company aims to evaluate its CRM data and sales pipeline for leads registered over the last five months. The task is to build a comprehensive analytical report that provides insights into lead distribution across countries, industries, and organization sizes. The report will assess the health of the sales pipeline, forecast potential income over the next few months, and compare sales agent performance. 
+-A company aims to evaluate its CRM data and sales pipeline for leads registered over the last five months. The task is to build a comprehensive analytical report that provides insights into lead distribution across countries, industries, and organization sizes. The report will assess the health of the sales pipeline, forecast potential income over the next few months, and compare sales agent performance. 
 
 😵‍💫The challenge
-A company aims to evaluate its CRM data and sales pipeline for leads registered over the last five months. The task is to build a comprehensive analytical report that provides insights into lead distribution across countries, industries, and organization sizes. The report will assess the health of the sales pipeline, forecast potential income over the next few months, and compare sales agent performance.
+-A company aims to evaluate its CRM data and sales pipeline for leads registered over the last five months. The task is to build a comprehensive analytical report that provides insights into lead distribution across countries, industries, and organization sizes. The report will assess the health of the sales pipeline, forecast potential income over the next few months, and compare sales agent performance.
 
 🦾Tasks
-The task process consisted on:
+-The task process consisted on:
 1) Creating Date Tables for Time Intelligence Analysis
 2) Calculating metrics such as number of leads, conversion to customers, sales duratio, through PBI measures.
 3) Making and customization of visual objects
