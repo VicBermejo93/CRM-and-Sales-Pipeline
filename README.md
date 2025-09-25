@@ -11,9 +11,9 @@
 4) UX interface
 
 ✨Insights
-- Bechmarking and market research for the SAAS product in order to win more deals.
+- Bechmarking and market research for the SAAS products.
 - Provide more sales training, follow up and supervision for those salespeople with lower performance i.e. win rate
 - Track all the opened-staged deals to close them ASAP.
 - Create initiatives and programs to improve customer loyalty.
-- Concentrate the lead-to-customer conversion in industries with higher potentials and values.
+- Concentrate efforts to the lead-to-customer conversion in industries with higher potentials and values.
 - Work with Sales so the team can work in order to increase the win rate in key industries such as Transportation, Goverment Administration Health, and Profesional Services.
